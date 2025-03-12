@@ -6,7 +6,7 @@ import keyboard
 import threading
 import pandas as pd
 
-# 1️⃣ 화면 녹화 설정 (2560x1440 해상도)
+# 1️⃣ 화면 녹화 설정 해상도에 맞게 변경
 screen_width = 2560
 screen_height = 1440
 fps = 20  # 초당 프레임 수
